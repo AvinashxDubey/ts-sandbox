@@ -17,16 +17,10 @@ Run TypeScript files directly:
 npx ts-node index.ts
 ```
 
-## Running JavaScript Files
-
-```bash
-node ds.js
-```
 
 ## Project Structure
 
 - `index.ts` - TypeScript playground
-- `ds.js` - JavaScript examples
 - `tsconfig.json` - TypeScript configuration
 
 ## Local Setup Commands
